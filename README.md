@@ -1,33 +1,24 @@
-![I Am Laravel Backend Developer](https://scontent.fdac152-1.fna.fbcdn.net/v/t39.30808-1/394497608_623303979880575_5460310781792837361_n.jpg?stp=c0.0.160.160a_dst-jpg_p160x160&_nc_cat=101&ccb=1-7&_nc_sid=5740b7&_nc_ohc=eBVcNDMrUegAX_YB-WO&_nc_ht=scontent.fdac152-1.fna&oh=00_AfCx3y37vPSPa-yE3T0ssFL2S0VtCyZFApFcEdt5nc4HZg&oe=658244B1)
 
-## Hi there 👋, Hi I Am Alamin
-### I Am Laravel Backend Developer
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100045386384303) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/alamin53818/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dev-alamin/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Md-Alamin-Ali-5) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20525231/alamin) 
 
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=developer-alamin&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=developer-alamin&theme=city_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-alamin&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Greetings! 👋 I'm Alamin, a dedicated Laravel backend developer passionate about creating seamless and efficient web applications. With 2 years of experience in the world of web development, I've immersed myself in the Laravel ecosystem, transforming ideas into robust and scalable backend solutions.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Skills: PHP / Laaravel/ JS / HTML / CSS
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=developer-alamin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 🔭 I’m currently working on Learning And Making project 
-- 🌱 I’m currently learning Vue js 
-- 👯 I’m looking to collaborate on Open Source Projects 
-- 💬 Ask me about PHP ,Laravel 
-- 📫 How to reach me: contact.alamin8@gmail.com 
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
+---
+[![](https://visitcount.itsvg.in/api?id=developer-alamin&icon=7&color=0)](https://visitcount.itsvg.in)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/developer-alamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dev-alamin//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100066029364421)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/alamin53818//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/MdAlami57027207)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mozzline.com/)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/developer-alamin)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/developer-alamin)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/developer-alamin&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/developer-alamin/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/developer-alamin)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/developer-alamin)  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
