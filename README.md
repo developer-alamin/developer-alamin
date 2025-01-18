@@ -1,5 +1,5 @@
 #### 💫 About Me:
-Hi there 👋! I Am Alamin<br>A Full-Stack Developer based in Meherpur, Bangladesh.<br>Have 1 years of hands-on experience in FullStack Development, php ecosystem.<br>I’m currently working at bithub
+Hi there 👋! I Am Alamin<br>A Full-Stack Developer based in Meherpur, Bangladesh.<br>Have 1 years of hands-on experience in FullStack Development, php ecosystem.<br>I’m currently working at ekopii
 
 
 #### 🌐 Socials:
