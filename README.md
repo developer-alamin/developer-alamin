@@ -2,9 +2,9 @@
 I’m a dedicated software engineer with hands-on experience in designing and developing full-stack applications. My core strengths lie in writing clean, maintainable code and solving real-world business problems with efficient solutions.
 
 🔭 Currently working on several Laravel + Vue projects. <br>
-🌱 Actively exploring advanced Laravel ecosystem tools & Vue 3 Composition API.
-⚙️ Always focused on performance, security, and scalability.
-💬 Let’s collaborate and build something great together.
+🌱 Actively exploring advanced Laravel ecosystem tools & Vue 3 Composition API.<br>
+⚙️ Always focused on performance, security, and scalability.<br>
+💬 Let’s collaborate and build something great together.<br>
 
 
 #### 🌐 Socials:
